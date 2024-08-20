@@ -2,7 +2,7 @@
 
 The Diabetes Predictor is a web application built using the powerful Python web framework Django. It includes test cases and is integrated with a machine learning model. This project aims to provide accurate predictions about the likelihood of an individual developing diabetes based on various input parameters.
 
-The repository includes the complete source code, including the trained machine learning model located in the "MLmodel" directory. This project has been deployed on an AWS EC2 instance, the address is http://3.76.43.69:8000/ 
+The repository includes the complete source code, including the trained machine learning model located in the "MLmodel" directory. 
 
 <h2>Features</h2>
 
